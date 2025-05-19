@@ -1,4 +1,4 @@
-# EX 41 C program to write a function to find the peek of stack using array.
+axax# EX 41 C program to write a function to find the peek of stack using array.
 ## DATE:
 ## AIM:
 To write a function to find the peek of stack using array.
